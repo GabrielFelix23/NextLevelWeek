@@ -28,6 +28,7 @@
 }
 html, body{
     height: 100vh;
+    background: var(--color-background);
 }
 
  body, button, input, textarea{
