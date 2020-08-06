@@ -1,0 +1,23 @@
+{
+  "name": "NextLevelWeek",
+  "version": "1.0.0",
+  "description": "Semana de projeto da Rocketseat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielFelix23/NextLevelWeek.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielFelix23/NextLevelWeek/issues"
+  },
+  "homepage": "https://github.com/GabrielFelix23/NextLevelWeek#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
