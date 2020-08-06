@@ -119,8 +119,11 @@
     text-decoration: none;
     transition: background 0.2;
     margin-left: 1.6rem;
+    text-decoration: none;
 }
-
+.button{
+    text-decoration: none;
+}
 .teacher-item footer button:hover{
     background: var(--color-secondary-dark);
 }
