@@ -104,7 +104,7 @@ server.get("/study", pageStudy)
 server.get("/give-classes", pageGiveClasses)
 
 
-const port = 5500
+const port = 8080
 server.listen(port, () => {
     console.log("Servidor rodando na porta 8080.")
 })
